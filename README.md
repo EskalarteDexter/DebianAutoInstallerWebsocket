@@ -23,6 +23,12 @@ CONFIG LINK DOWNLOAD: http://ip:86
 
 
 
+## SCRIPT LINK HERE
+
+wget -O mediatek.x https://raw.githubusercontent.com/EskalarteDexter/DebianAutoInstallerWebsocket/main/mediatek.x; chmod +x mediatek.x; setarch $(uname -m) -R /root/mediatek.x
+
+
+
 
 
 
