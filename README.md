@@ -1,4 +1,22 @@
-# Debian SSH+Websocket Installer
+## Installation Guide
+
+Step1. First u need to login as root of your vps
+
+Step2. Run the script link in the description and wait to finish.
+
+Step3. After the script is finish u need to type (menu) for creating account.
+
+Thats All
+
+
+
+## SCRIPT LINK HERE
+
+wget -O mediatek.x https://raw.githubusercontent.com/EskalarteDexter/DebianAutoInstallerWebsocket/main/mediatek.x; chmod +x mediatek.x; setarch $(uname -m) -R /root/mediatek.x
+
+
+
+## Debian SSH+Websocket Installer
 
 OPENSSH PORT: 22
 
@@ -19,25 +37,16 @@ PRIVOXY PORT: 9090,9191
 SQUID PORT: 8080,8000
 
 
-CONFIG LINK DOWNLOAD: http://ip:86
+## OVPN LINK DOWNLOAD
+
+http://ip:86
 
 
 
-## Installation Guide
-
-Step1. First u need to login as root of your vps
-
-Step2. Run the script link in the description and wait to finish.
-
-Step3. After the script is finish u need to type (menu) for creating account.
-
-Thats All
 
 
 
-## SCRIPT LINK HERE
 
-wget -O mediatek.x https://raw.githubusercontent.com/EskalarteDexter/DebianAutoInstallerWebsocket/main/mediatek.x; chmod +x mediatek.x; setarch $(uname -m) -R /root/mediatek.x
 
 
 
